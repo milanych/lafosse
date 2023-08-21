@@ -1,0 +1,14 @@
+{
+  "name": "la-fosse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "starter": "node starter.js",
+    "string": "node string.js",
+    "arr": "node arr.js",
+    "object": "node object.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
