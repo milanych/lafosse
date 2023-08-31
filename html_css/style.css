@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 640px;
+}
+.container a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:200px;
+  height:150px;
+  background-color: #999999;
+  color: white;
+  text-decoration: none;
+}
+.container a:hover {
+  background-color: #c4c4c4;
+  transition: .25s;
+}
